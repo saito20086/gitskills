@@ -1,1 +1,1 @@
-A second repository
+A second learning repository.
